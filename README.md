@@ -1,10 +1,12 @@
 ### Hello 👋
 My name is Bruna Rocha, i'm from São Paulo, Brazil 📍
+
 I'm a student of systems analysis and development 💻
 
 I'm passionate about technology and programming, always open to learn new experiences and challenging me. 
 
-Contact me out: 
+
+📩 You can Reach me: 
 
 [
 ![Gmail Badge](https://img.shields.io/badge/-brunaoliveiraroocha@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=:brunaoliveiraroocha@gmail.com)](:brunaoliveiraroocha@gmail.com)
