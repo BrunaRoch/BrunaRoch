@@ -13,7 +13,7 @@ I'm passionate about technology and programming, always open to learn new experi
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Rocha-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-rocha-3368011a0)](https://www.linkedin.com/in/bruna-rocha-3368011a0/)
 [
-![github Badge](https://img.shields.io/badge/-itsmebru-171515?style=flat-square&labelColor=171515&logo=github&logoColor=white&link=https://github.com/BrunaRoch)](https://github.com/BrunaRoch) 
+![github Badge](https://img.shields.io/badge/-BrunaRoch-171515?style=flat-square&labelColor=171515&logo=github&logoColor=white&link=https://github.com/BrunaRoch)](https://github.com/BrunaRoch) 
 [
 ![Twitter Badge](https://img.shields.io/badge/-brunarocha-00acee?style=flat-square&labelColor=00acee&logo=github&logoColor=white&link=https://twitter.com/rocha2_bruna)]
 (https://twitter.com/rocha2_bruna) 
