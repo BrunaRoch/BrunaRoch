@@ -15,6 +15,5 @@ I'm passionate about technology and programming, always open to learn new experi
 [
 ![github Badge](https://img.shields.io/badge/-BrunaRoch-171515?style=flat-square&labelColor=171515&logo=github&logoColor=white&link=https://github.com/BrunaRoch)](https://github.com/BrunaRoch) 
 [
-![Twitter Badge](https://img.shields.io/badge/-BrunaRocha-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/rocha2_bruna)] 
+![Twitter Badge](https://img.shields.io/badge/-BrunaRocha-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/rocha2_bruna)
 (https://twitter.com/rocha2_bruna)
-] 
