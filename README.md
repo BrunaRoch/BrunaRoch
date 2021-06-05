@@ -17,16 +17,3 @@ I'm passionate about technology and programming, always open to learn new experi
 [
 ![Twitter Badge](https://img.shields.io/badge/-@BrunaRocha-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/rocha2_bruna)](https://twitter.com/rocha2_bruna) 
 
-
-Bruna Rocha's GitHub Stats
-A++
-Total Stars:
-985
-Total Commits:
-269
-Total PRs:
-4
-Total Issues:
-0
-Contributed to:
-5
